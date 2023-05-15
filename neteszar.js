@@ -1,9 +1,9 @@
-import * as THREE from 'three';
+import * as THREE from 'three.js';
 
-import Stats from 'three/addons/libs/stats.module.js';
+import Stats from 'stats.module.js';
 
-import { FlyControls } from 'three/addons/controls/FlyControls.js';
-import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+import { FlyControls } from 'FlyControls.js';
+import { GLTFLoader } from 'GLTFLoader.js';
 
 
 
