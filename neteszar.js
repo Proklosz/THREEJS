@@ -1,9 +1,9 @@
-import * as THREE from 'three.js';
+import * as THREE from './three.module.js';
 
-import Stats from 'stats.module.js';
+import Stats from './stats.module.js';
 
-import { FlyControls } from 'FlyControls.js';
-import { GLTFLoader } from 'GLTFLoader.js';
+import { FlyControls } from './FlyControls.js';
+import { GLTFLoader } from './GLTFLoader.js';
 
 
 
